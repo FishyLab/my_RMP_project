@@ -12,16 +12,21 @@ knitr::opts_chunk$set(echo = TRUE)
 # Abstract
 
 Abstract here
+This is my abstract
 
 # Intro
 
 Introduction here
+
+MJy intro is only this
 
 # Methods
 
 code that loads coastline
 code that creates map
 map
+
+I dont need a map
 
 # Results
 
