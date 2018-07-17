@@ -1,2 +1,18 @@
 # my_RMP_project
-My repo for the RMP summer project on  cool topic
+
+
+## Repository structure 
+
+```
+-- data
+-- docs
+-- my_RMP_project.Rproj
+-- raw_data
+-- README.md
+-- rmd
+-- scripts
+```
+
+--------- 
+
+my_email@gmail.com
