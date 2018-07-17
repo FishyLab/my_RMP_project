@@ -1,0 +1,33 @@
+---
+title: "My cool title for a summer paper"
+author: "Juan Carlos Villaseñor-Derbez"
+date: "17 de julio de 2018"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Abstract
+
+Abstract here
+
+# Intro
+
+Introduction here
+
+# Methods
+
+code that loads coastline
+code that creates map
+map
+
+# Results
+
+# Discussion
+
+# References
+
+
+
